@@ -1,0 +1,16 @@
+{
+  "name": "mocha-allure-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-mocha": "^2.0.0-beta.26",
+    "mocha": "^10.2.0"
+  }
+}
